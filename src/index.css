@@ -1,0 +1,11 @@
+@import "tailwindcss";
+
+@theme {
+  --color-mvm-yellow: #ffc72c;
+  --color-mvm-blue: #002147;
+}
+
+body {
+  background-color: white;
+  color: #002147; /* Cor azul marinho da MVM */
+}

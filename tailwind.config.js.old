@@ -1,0 +1,16 @@
+/** @type {import('tailwindcss').Config} */
+export default {
+  content: ["./index.html", "./src/**/*.{js,ts,jsx,tsx}"],
+  theme: {
+    extend: {
+      colors: {
+        mvm: {
+          yellow: "#FFC72C", // Amarelo McDonald's
+          blue: "#002147", // Azul Marinho Escuro
+          white: "#FFFFFF",
+        },
+      },
+    },
+  },
+  plugins: [],
+};
