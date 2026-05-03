@@ -15,11 +15,10 @@ export function Hero() {
           <span className="text-[#FFC72C]">move o vale.</span>
         </h2>
         <p className="text-gray-200 max-w-2xl text-lg mb-10 font-light">
-          Especialistas em manutenção, venda e automação de motores industriais.
-          Qualidade técnica com a tradição da MVM.
+         
         </p>
         <button className="bg-[#FFC72C] text-[#002147] px-12 py-5 text-sm font-black uppercase tracking-widest hover:bg-white transition-all duration-300 shadow-2xl">
-          Solicitar Manutenção
+          Solicitar Orçammento
         </button>
       </div>
     </section>
